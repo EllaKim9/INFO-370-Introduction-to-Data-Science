@@ -1,0 +1,583 @@
+,id,name,text,quantity,unit,ingredient
+0,1,roasted rolled turkey breast garlic herb butter,5 tbsp butter softened (divided),5,tbsp,butter
+1,1,roasted rolled turkey breast garlic herb butter,6 cloves garlic minced,6,cloves,garlic
+2,1,roasted rolled turkey breast garlic herb butter,"2 tbsp fresh herbs (thyme, rosemary, sage and parsley) minced",2,tbsp,"fresh herbs (thyme, rosemary, sage and parsley)"
+3,1,roasted rolled turkey breast garlic herb butter,1 tsp fresh lemon zest ,1,tsp,fresh lemon zest
+4,1,roasted rolled turkey breast garlic herb butter,1/2 tsp salt ,1/2,tsp,salt
+5,1,roasted rolled turkey breast garlic herb butter,"3 lb turkey breast boneless, skin-on",3,lb,turkey breast
+6,1,roasted rolled turkey breast garlic herb butter,1 tsp salt ,1,tsp,salt
+7,1,roasted rolled turkey breast garlic herb butter,1/2 tsp pepper ,1/2,tsp,pepper
+8,1,roasted rolled turkey breast garlic herb butter,  parsley for garnish,N/A,N/A,parsley
+9,2,white chocolate cranberry cookies,2 cups Blanched Almond Flour ,2,cups,Blanched Almond Flour
+10,2,white chocolate cranberry cookies,½ tsp salt ,½,tsp,salt
+11,2,white chocolate cranberry cookies,1 tsp baking soda ,1,tsp,baking soda
+12,2,white chocolate cranberry cookies,1/3 cup butter melted,1/3,cup,butter
+13,2,white chocolate cranberry cookies,1/3 cup maple syrup ,1/3,cup,maple syrup
+14,2,white chocolate cranberry cookies,1 tsp vanilla extract ,1,tsp,vanilla extract
+15,2,white chocolate cranberry cookies,1  egg large ,1,N/A,egg large
+16,2,white chocolate cranberry cookies,2/3 cup dried cranberries ,2/3,cup,dried cranberries
+17,2,white chocolate cranberry cookies,1/3 cup white chocolate chips ,1/3,cup,white chocolate chips
+18,3,how to cook green beans,1 lb. green beans trimmed,1,lb.,green beans
+19,3,how to cook green beans,1 tablespoon olive oil ,1,tablespoon,olive oil
+20,3,how to cook green beans,2 tablespoon butter ,2,tablespoon,butter
+21,3,how to cook green beans,"1/2 cup parsley fresh, chopped",1/2,cup,parsley
+22,3,how to cook green beans,4  garlic cloves minced,4,N/A,garlic cloves
+23,3,how to cook green beans,1 tablespoon Sriracha (or any other hot sauce),1,tablespoon,Sriracha
+24,3,how to cook green beans,1/4 teaspoon salt and fresh cracked black pepper ,1/4,teaspoon,salt and fresh cracked black pepper
+25,3,how to cook green beans,  Juice of 1/2 lemon ,N/A,N/A,Juice of 1/2 lemon
+26,3,how to cook green beans,1/2 cup chicken stock ,1/2,cup,chicken stock
+27,4,roasted sweet potatoes,3  sweet potatoes (peeled and cut into 1/2-inch pieces),3,N/A,sweet potatoes
+28,4,roasted sweet potatoes,2 tablespoons olive oil or vegetable oil ,2,tablespoons,olive oil or vegetable oil
+29,4,roasted sweet potatoes,2 tablespoons maple syrup ,2,tablespoons,maple syrup
+30,4,roasted sweet potatoes,1/4 teaspoon kosher salt ,1/4,teaspoon,kosher salt
+31,4,roasted sweet potatoes,1/4 teaspoon paprika ,1/4,teaspoon,paprika
+32,4,roasted sweet potatoes,1/8 teaspoon cinnamon ,1/8,teaspoon,cinnamon
+33,4,roasted sweet potatoes,1/2 teaspoon garlic powder ,1/2,teaspoon,garlic powder
+34,4,roasted sweet potatoes, A pinch red pepper flakes ,N/A,A pinch,red pepper flakes
+35,5,broccoli mushroom casserole,3 cups chopped broccoli ,3,cups,chopped broccoli
+36,5,broccoli mushroom casserole,1 tbsp olive oil ,1,tbsp,olive oil
+37,5,broccoli mushroom casserole,10 oz shiitake mushrooms sliced,10,oz,shiitake mushrooms
+38,5,broccoli mushroom casserole,1/2  onion chopped,1/2,N/A,onion
+39,5,broccoli mushroom casserole,4 cloves garlic finely chopped,4,cloves,garlic
+40,5,broccoli mushroom casserole,1 cup heavy cream ,1,cup,heavy cream
+41,5,broccoli mushroom casserole,1 cup chicken stock unsalted,1,cup,chicken stock
+42,5,broccoli mushroom casserole,"1 1/2 cup cheddar cheese (shredded, divided)",1 1/2,cup,cheddar cheese
+43,5,broccoli mushroom casserole,1 teaspoon garlic powder ,1,teaspoon,garlic powder
+44,5,broccoli mushroom casserole,1 tsp salt ,1,tsp,salt
+45,5,broccoli mushroom casserole,1/4 teaspoon black pepper ,1/4,teaspoon,black pepper
+46,5,broccoli mushroom casserole,3 cups cooked white rice (which equals 1 cup of uncooked rice),3,cups,cooked white rice
+47,6,the best cornbread,1/2 cup cornmeal ,1/2,cup,cornmeal
+48,6,the best cornbread,1 1/2 cups flour ,1 1/2,cups,flour
+49,6,the best cornbread,2/3 cup sugar ,2/3,cup,sugar
+50,6,the best cornbread,1 tablespoon baking powder ,1,tablespoon,baking powder
+51,6,the best cornbread,1/2 teaspoon salt ,1/2,teaspoon,salt
+52,6,the best cornbread,1/3 cup oil ,1/3,cup,oil
+53,6,the best cornbread,3 tablespoons melted butter ,3,tablespoons,melted butter
+54,6,the best cornbread,1 tablespoon honey ,1,tablespoon,honey
+55,6,the best cornbread,2  eggs beaten,2,N/A,eggs
+56,6,the best cornbread,1 1/4 cups milk ,1 1/4,cups,milk
+57,7,beer braised lamb shanks,3 tbsp olive oil ,3,tbsp,olive oil
+58,7,beer braised lamb shanks,3-4  lamb shanks (trimmed of excess fat),3-4,N/A,lamb shanks
+59,7,beer braised lamb shanks,1 tsp sea salt ,1,tsp,sea salt
+60,7,beer braised lamb shanks,1 tsp black pepper ,1,tsp,black pepper
+61,7,beer braised lamb shanks,1  red onion (diced),1,N/A,red onion
+62,7,beer braised lamb shanks,2 tsp minced garlic ,2,tsp,minced garlic
+63,7,beer braised lamb shanks,2 tbsp Rosemary (fresh and chopped),2,tbsp,Rosemary
+64,7,beer braised lamb shanks,2  carrots (diced),2,N/A,carrots
+65,7,beer braised lamb shanks,2  celery sticks (diced),2,N/A,celery sticks
+66,7,beer braised lamb shanks,1 cup dark beer (such as Guinness),1,cup,dark beer
+67,7,beer braised lamb shanks,"2 cups beef stock (low sodium or sodium free, if not - adjust the salt above)",2,cups,beef stock
+68,7,beer braised lamb shanks,14 oz crushed tomatoes ,14,oz,crushed tomatoes
+69,7,beer braised lamb shanks,2  dried bay leaves ,2,N/A,dried bay leaves
+70,8,smooth hummus roasted garlic,2  15-ounce cans chickpeas ,2,N/A,15-ounce cans chickpeas
+71,8,smooth hummus roasted garlic,2 tbsp extra virgin olive oil plus more for garnish,2,tbsp,extra virgin olive oil
+72,8,smooth hummus roasted garlic,1/3 cup tahini (well-stirred),1/3,cup,tahini
+73,8,smooth hummus roasted garlic,6  garlic cloves (roasted),6,N/A,garlic cloves
+74,8,smooth hummus roasted garlic,2 tablespoons freshly squeezed juice ,2,tablespoons,freshly squeezed juice
+75,8,smooth hummus roasted garlic,1 tsp ground cumin ,1,tsp,ground cumin
+76,8,smooth hummus roasted garlic,1/16 tsp cayenne pepper ,1/16,tsp,cayenne pepper
+77,8,smooth hummus roasted garlic,1/4 tsp kosher salt ,1/4,tsp,kosher salt
+78,8,smooth hummus roasted garlic,1/4 cup water ,1/4,cup,water
+79,8,smooth hummus roasted garlic,  Paprika and fresh minced parsley for garnish ,N/A,N/A,Paprika and fresh minced parsley for garnish
+80,9,roasted spatchcock chicken,2 tablespoons chopped garlic ,2,tablespoons,chopped garlic
+81,9,roasted spatchcock chicken,2 tablespoons Dijon mustard ,2,tablespoons,Dijon mustard
+82,9,roasted spatchcock chicken,2 tablespoons dry white wine ,2,tablespoons,dry white wine
+83,9,roasted spatchcock chicken,1 tablespoon soy sauce ,1,tablespoon,soy sauce
+84,9,roasted spatchcock chicken,2 tablespoons olive oil ,2,tablespoons,olive oil
+85,9,roasted spatchcock chicken,1 teaspoon Tabasco hot pepper sauce ,1,teaspoon,Tabasco hot pepper sauce
+86,9,roasted spatchcock chicken,1 teaspoon herbes de Provence ,1,teaspoon,herbes de Provence
+87,9,roasted spatchcock chicken,1/2 teaspoon salt ,1/2,teaspoon,salt
+88,9,roasted spatchcock chicken,3 1/2 lb. chicken (1 chicken),3 1/2,lb.,chicken
+89,10,cabbage beef soup,2 tablespoons olive oil ,2,tablespoons,olive oil
+90,10,cabbage beef soup,1 lb. rib eye steak cut into 1-inch pieces (trimmed of visible fat),1,lb.,rib eye steak
+91,10,cabbage beef soup,1  large onion chopped,1,N/A,large onion
+92,10,cabbage beef soup,1  stalk celery chopped,1,N/A,stalk celery
+93,10,cabbage beef soup,"2  large carrots peeled, diced",2,N/A,large carrots
+94,10,cabbage beef soup,1  small green cabbage  chopped into bite-sized pieces,1,N/A,small green cabbage 
+95,10,cabbage beef soup,4 cloves garlic minced ,4,cloves,garlic minced
+96,10,cabbage beef soup,4 cups beef stock ,4,cups,beef stock
+97,10,cabbage beef soup,14 oz diced tomatoes (1 can),14,oz,diced tomatoes
+98,10,cabbage beef soup,3 tablespoons fresh chopped parsley plus more to serve,3,tablespoons,fresh chopped parsley
+99,10,cabbage beef soup,2 teaspoon dried thyme ,2,teaspoon,dried thyme
+100,10,cabbage beef soup,1 teaspoon dried basil ,1,teaspoon,dried basil
+101,10,cabbage beef soup,1 teaspoons onion powder ,1,teaspoons,onion powder
+102,10,cabbage beef soup,1 teaspoon garlic powder ,1,teaspoon,garlic powder
+103,10,cabbage beef soup,  Salt and freshly-cracked black pepper to taste ,N/A,N/A,Salt and freshly-cracked black pepper to taste
+104,11,roasted rolled turkey breast garlic herb butter,5 tbsp butter softened (divided),5,tbsp,butter
+105,11,roasted rolled turkey breast garlic herb butter,6 cloves garlic minced,6,cloves,garlic
+106,11,roasted rolled turkey breast garlic herb butter,"2 tbsp fresh herbs (thyme, rosemary, sage and parsley) minced",2,tbsp,"fresh herbs (thyme, rosemary, sage and parsley)"
+107,11,roasted rolled turkey breast garlic herb butter,1 tsp fresh lemon zest ,1,tsp,fresh lemon zest
+108,11,roasted rolled turkey breast garlic herb butter,1/2 tsp salt ,1/2,tsp,salt
+109,11,roasted rolled turkey breast garlic herb butter,"3 lb turkey breast boneless, skin-on",3,lb,turkey breast
+110,11,roasted rolled turkey breast garlic herb butter,1 tsp salt ,1,tsp,salt
+111,11,roasted rolled turkey breast garlic herb butter,1/2 tsp pepper ,1/2,tsp,pepper
+112,11,roasted rolled turkey breast garlic herb butter,  parsley for garnish,N/A,N/A,parsley
+113,12,baked curry chicken,3 tablespoons plain yogurt ,3,tablespoons,plain yogurt
+114,12,baked curry chicken,2 tablespoons olive oil ,2,tablespoons,olive oil
+115,12,baked curry chicken,2 teaspoons cumin powder ,2,teaspoons,cumin powder
+116,12,baked curry chicken,1 teaspoon ground ginger ,1,teaspoon,ground ginger
+117,12,baked curry chicken,1/4 teaspoon cinnamon ,1/4,teaspoon,cinnamon
+118,12,baked curry chicken,1/4 teaspoon cayenne pepper ,1/4,teaspoon,cayenne pepper
+119,12,baked curry chicken,1/4 teaspoon sea salt ,1/4,teaspoon,sea salt
+120,12,baked curry chicken,3 cloves garlic chopped,3,cloves,garlic
+121,12,baked curry chicken,1.5 lb. chicken drumsticks or thighs,1.5,lb.,chicken drumsticks
+122,12,baked curry chicken,1/4 cup chicken broth ,1/4,cup,chicken broth
+123,13,garlic mushroom pork chops,4  pork chops thin and boneless,4,N/A,pork chops
+124,13,garlic mushroom pork chops,1 teaspoon paprika ,1,teaspoon,paprika
+125,13,garlic mushroom pork chops,2 teaspoons Italian seasoning divided,2,teaspoons,Italian seasoning
+126,13,garlic mushroom pork chops,  Salt and fresh cracked black pepper to taste,N/A,N/A,Salt and fresh cracked black pepper
+127,13,garlic mushroom pork chops,1 tablespoon butter ,1,tablespoon,butter
+128,13,garlic mushroom pork chops,1 tablespoon olive oil ,1,tablespoon,olive oil
+129,13,garlic mushroom pork chops,4 oz mushrooms sliced,4,oz,mushrooms
+130,13,garlic mushroom pork chops,4-5  garlic cloves crushed,4-5,N/A,garlic cloves
+131,13,garlic mushroom pork chops,1 1/2 cups heavy cream ,1 1/2,cups,heavy cream
+132,13,garlic mushroom pork chops,1/2 cup chicken broth ,1/2,cup,chicken broth
+133,13,garlic mushroom pork chops,1/4 cup Parmesan grated,1/4,cup,Parmesan
+134,13,garlic mushroom pork chops,1 tablespoon parsley fresh and chopped,1,tablespoon,parsley
+135,13,garlic mushroom pork chops,  Salt and pepper to taste ,N/A,N/A,Salt and pepper to taste
+136,14,beef burrito,1 lb. ground beef ,1,lb.,ground beef
+137,14,beef burrito,1/2  onion chopped ,1/2,N/A,onion chopped
+138,14,beef burrito,  salt to taste ,N/A,N/A,salt to taste
+139,14,beef burrito,1 teaspoon garlic powder ,1,teaspoon,garlic powder
+140,14,beef burrito,2 teaspoons taco seasoning ,2,teaspoons,taco seasoning
+141,14,beef burrito,1/4 cup beef broth ,1/4,cup,beef broth
+142,14,beef burrito,15 oz. black beans (1 can),15,oz.,black beans
+143,14,beef burrito,8  large 10-inch flour tortillas ,8,N/A,large 10-inch flour tortillas
+144,14,beef burrito,1 cup cooked rice ,1,cup,cooked rice
+145,14,beef burrito,2 cups shredded cheddar cheese ,2,cups,shredded cheddar cheese
+146,14,beef burrito,  Guacamole ,N/A,N/A,Guacamole
+147,14,beef burrito,  Sour cream ,N/A,N/A,Sour cream
+148,14,beef burrito,2  tomatoes chopped,2,N/A,tomatoes
+149,14,beef burrito,  Lettuce chopped ,N/A,N/A,Lettuce chopped
+150,15,goulash with smoked sausage and potatoes,1 tablespoon Olive oil ,1,tablespoon,Olive oil
+151,15,goulash with smoked sausage and potatoes,14-16 ounces smoked sausage sliced,14-16,ounces,smoked sausage
+152,15,goulash with smoked sausage and potatoes,2 tablespoons butter ,2,tablespoons,butter
+153,15,goulash with smoked sausage and potatoes,1  onion thinly sliced,1,N/A,onion
+154,15,goulash with smoked sausage and potatoes,3  garlic cloves minced or pressed through garlic press,3,N/A,garlic cloves
+155,15,goulash with smoked sausage and potatoes,  Salt to taste,N/A,N/A,Salt
+156,15,goulash with smoked sausage and potatoes,3/4 teaspoon freshly cracked black pepper ,3/4,teaspoon,freshly cracked black pepper
+157,15,goulash with smoked sausage and potatoes,1 1/2 teaspoons paprika ,1 1/2,teaspoons,paprika
+158,15,goulash with smoked sausage and potatoes,1.5 to 2 pounds medium-size red skin potatoes peeled and sliced into 1/2” thick circles (about 2 3/4 lbs),1.5 to 2,pounds,medium-size red skin potatoes
+159,15,goulash with smoked sausage and potatoes,1 1/2 cup chicken stock ,1 1/2,cup,chicken stock
+160,15,goulash with smoked sausage and potatoes,1/3 cup parsley chopped,1/3,cup,parsley
+161,16,one pot chili mac and cheese,1 tbsp olive oil ,1,tbsp,olive oil
+162,16,one pot chili mac and cheese,2  garlic cloves minced ,2,N/A,garlic cloves minced
+163,16,one pot chili mac and cheese,1  onion finely chopped ,1,N/A,onion finely chopped
+164,16,one pot chili mac and cheese,1  red bell pepper chopped,1,N/A,red bell pepper
+165,16,one pot chili mac and cheese,1 lb ground beef ,1,lb,ground beef
+166,16,one pot chili mac and cheese,1 tsp cayenne pepper or pure chilli powder ,1,tsp,cayenne pepper or pure chilli powder
+167,16,one pot chili mac and cheese,2 tsp paprika powder ,2,tsp,paprika powder
+168,16,one pot chili mac and cheese,2 tsp cumin powder ,2,tsp,cumin powder
+169,16,one pot chili mac and cheese,2 tsp onion powder ,2,tsp,onion powder
+170,16,one pot chili mac and cheese,2 tsp garlic powder ,2,tsp,garlic powder
+171,16,one pot chili mac and cheese,1/2 tsp black pepper ,1/2,tsp,black pepper
+172,16,one pot chili mac and cheese,1 1/4 tsp sea salt ,1 1/4,tsp,sea salt
+173,16,one pot chili mac and cheese,28 oz crushed canned tomato ,28,oz,crushed canned tomato
+174,16,one pot chili mac and cheese,14 oz can red kidney beans drained,14,oz,can red kidney beans
+175,16,one pot chili mac and cheese,2 cups beef broth ,2,cups,beef broth
+176,16,one pot chili mac and cheese,8 oz elbow macaroni pasta uncooked,8,oz,elbow macaroni pasta
+177,16,one pot chili mac and cheese,2 cups shredded Cheddar cheese ,2,cups,shredded Cheddar cheese
+178,16,one pot chili mac and cheese,  Parsley (for garnish),N/A,N/A,Parsley
+179,17,baked pork chops,1 lb. pork chops thin and boneless,1,lb.,pork chops
+180,17,baked pork chops,  salt/pepper to taste ,N/A,N/A,salt/pepper to taste
+181,17,baked pork chops,1 teaspoon Italian seasoning ,1,teaspoon,Italian seasoning
+182,17,baked pork chops,1.2  yellow onion thinly sliced,1.2,N/A,yellow onion
+183,17,baked pork chops,1/3 cup mayonnaise ,1/3,cup,mayonnaise
+184,17,baked pork chops,"6-8 oz cheddar cheese yellow, shredded",6-8,oz,cheddar cheese
+185,18,baked meatballs,1 pound ground beef ,1,pound,ground beef
+186,18,baked meatballs,2 teaspoons garlic powder ,2,teaspoons,garlic powder
+187,18,baked meatballs,2 teaspoons onion powder ,2,teaspoons,onion powder
+188,18,baked meatballs,2 teaspoons Italian seasoning  ,2,teaspoons,Italian seasoning 
+189,18,baked meatballs,1/4 cup Parmesan cheese grated,1/4,cup,Parmesan cheese
+190,18,baked meatballs,1/4 cup breadcrumbs ,1/4,cup,breadcrumbs
+191,18,baked meatballs,1/2 teaspoon sea salt ,1/2,teaspoon,sea salt
+192,18,baked meatballs,1/2 teaspoon ground black pepper ,1/2,teaspoon,ground black pepper
+193,18,baked meatballs,1  egg ,1,N/A,egg
+194,18,baked meatballs,1/4 cup milk ,1/4,cup,milk
+195,18,baked meatballs,1 tablespoon olive oil ,1,tablespoon,olive oil
+196,18,baked meatballs,2 cups marinara sauce ,2,cups,marinara sauce
+197,18,baked meatballs,1 cup mozzarella cheese shredded,1,cup,mozzarella cheese
+198,18,baked meatballs,2 tablespoons chopped parsley ,2,tablespoons,chopped parsley
+199,19,baked chili hot dogs,"14 oz. chili (1 can, opened and heated)",14,oz.,chili
+200,19,baked chili hot dogs,1 can Pillsbury™ refrigerated classic pizza crust ,1,can,Pillsbury™ refrigerated classic pizza crust
+201,19,baked chili hot dogs,4  Cheddar cheese sticks ,4,N/A,Cheddar cheese sticks
+202,19,baked chili hot dogs,4  all-beef hot dogs ,4,N/A,all-beef hot dogs
+203,19,baked chili hot dogs,1 tablespoon butter ,1,tablespoon,butter
+204,19,baked chili hot dogs,1/4 teaspoon garlic powder ,1/4,teaspoon,garlic powder
+205,19,baked chili hot dogs,1/4 teaspoon parsley flakes ,1/4,teaspoon,parsley flakes
+206,20,creamy chicken pasta,1 1/2 lb. chicken thighs  skinless and boneless,1 1/2,lb.,chicken thighs 
+207,20,creamy chicken pasta,  Salt and black pepper ,N/A,N/A,Salt and black pepper
+208,20,creamy chicken pasta,2 tablespoon olive oil (divided),2,tablespoon,olive oil
+209,20,creamy chicken pasta,2 cloves garlic chopped,2,cloves,garlic
+210,20,creamy chicken pasta,1/2 cup sun dried tomatoes chopped,1/2,cup,sun dried tomatoes
+211,20,creamy chicken pasta,1 cup basil leaves ,1,cup,basil leaves
+212,20,creamy chicken pasta,1/2 cup white wine ,1/2,cup,white wine
+213,20,creamy chicken pasta,1 cup chicken broth/stock  sodium free,1,cup,chicken broth/stock 
+214,20,creamy chicken pasta,1 cup cup heavy cream ,1,cup,cup heavy cream
+215,20,creamy chicken pasta,1/2 teaspoon sea salt ,1/2,teaspoon,sea salt
+216,20,creamy chicken pasta,1 teaspoon Italian seasoning ,1,teaspoon,Italian seasoning
+217,20,creamy chicken pasta,1 teaspoon onion powder ,1,teaspoon,onion powder
+218,20,creamy chicken pasta,2 teaspoons garlic powder ,2,teaspoons,garlic powder
+219,20,creamy chicken pasta,1/2 cup parmesan grated,1/2,cup,parmesan
+220,20,creamy chicken pasta,10 oz pasta (linguine),10,oz,pasta
+221,21,instant pot chili,1 tablespoon olive oil ,1,tablespoon,olive oil
+222,21,instant pot chili,1 lb. ground beef ,1,lb.,ground beef
+223,21,instant pot chili,1  small onion diced,1,N/A,small onion
+224,21,instant pot chili,5 cloves garlic minced,5,cloves,garlic
+225,21,instant pot chili,1  green bell pepper diced,1,N/A,green bell pepper
+226,21,instant pot chili,1 cup chicken stock sodium free,1,cup,chicken stock
+227,21,instant pot chili,4 tablespoons Worcestershire sauce ,4,tablespoons,Worcestershire sauce
+228,21,instant pot chili,3 teaspoons unsweetened cocoa powder ,3,teaspoons,unsweetened cocoa powder
+229,21,instant pot chili,4 tablespoons chili powder (I used ancho chili powder),4,tablespoons,chili powder
+230,21,instant pot chili,2 tablespoons cumin seed ground,2,tablespoons,cumin seed
+231,21,instant pot chili,3 teaspoons Italian seasoning ,3,teaspoons,Italian seasoning
+232,21,instant pot chili,3 teaspoons brown sugar ,3,teaspoons,brown sugar
+233,21,instant pot chili,1 teaspoon sea salt ,1,teaspoon,sea salt
+234,21,instant pot chili,2 19 oz. cans red kidney beans drained,2,19 oz. cans,red kidney beans
+235,21,instant pot chili,1 28 oz. can crushed tomatoes ,1,28 oz. can,crushed tomatoes
+236,21,instant pot chili,  Sour cream and cheddar cheese (for garnish),N/A,N/A,Sour cream and cheddar cheese
+237,22,instant pot chicken thighs,2 Tablespoons Olive Oil ,2,Tablespoons,Olive Oil
+238,22,instant pot chicken thighs,3 cloves garlic chopped,3,cloves,garlic
+239,22,instant pot chicken thighs,8 oz white mushrooms sliced,8,oz,white mushrooms
+240,22,instant pot chicken thighs,1/2 cup dry white wine ,1/2,cup,dry white wine
+241,22,instant pot chicken thighs,1 cup chicken stock ,1,cup,chicken stock
+242,22,instant pot chicken thighs,1/2 cup heavy cream ,1/2,cup,heavy cream
+243,22,instant pot chicken thighs,1 teaspoon sea salt (more for chicken),1,teaspoon,sea salt
+244,22,instant pot chicken thighs,1/2 teaspoon Pepper ,1/2,teaspoon,Pepper
+245,22,instant pot chicken thighs,2 teaspoons Garlic Powder ,2,teaspoons,Garlic Powder
+246,22,instant pot chicken thighs,2 teaspoons Italian seasoning or Oregano,2,teaspoons,Italian seasoning
+247,22,instant pot chicken thighs,"2 lb. chicken thighs skin-on, bone-in",2,lb.,chicken thighs
+248,22,instant pot chicken thighs,  To thicken sauce: ,N/A,N/A,To thicken sauce:
+249,22,instant pot chicken thighs,3 Tablespoons butter ,3,Tablespoons,butter
+250,22,instant pot chicken thighs,3 Tablespoons flour ,3,Tablespoons,flour
+251,22,instant pot chicken thighs,1/2 cup heavy cream ,1/2,cup,heavy cream
+252,23,instant pot mac and cheese,16 oz. Elbow Macaroni Noodles (uncooked),16,oz.,Elbow Macaroni Noodles
+253,23,instant pot mac and cheese,4 cups Chicken Broth ,4,cups,Chicken Broth
+254,23,instant pot mac and cheese,2 tbsp Butter ,2,tbsp,Butter
+255,23,instant pot mac and cheese,1 tsp Onion Powder ,1,tsp,Onion Powder
+256,23,instant pot mac and cheese,1 tsp Garlic Powder ,1,tsp,Garlic Powder
+257,23,instant pot mac and cheese,1/2 tsp Salt ,1/2,tsp,Salt
+258,23,instant pot mac and cheese,1/2 tsp Pepper ,1/2,tsp,Pepper
+259,23,instant pot mac and cheese,2 cups Cheddar Cheese (shredded),2,cups,Cheddar Cheese
+260,23,instant pot mac and cheese,1 cup Mozzarella Cheese (shredded),1,cup,Mozzarella Cheese
+261,23,instant pot mac and cheese,1/2 cup Parmesan Cheese (shredded),1/2,cup,Parmesan Cheese
+262,23,instant pot mac and cheese,1 cup Milk ,1,cup,Milk
+263,24,instant pot oreo cheesecake,10  Oreo cookies (crushed into crumbs with the food processor),10,N/A,Oreo cookies
+264,24,instant pot oreo cheesecake,3 tablespoons butter (melted),3,tablespoons,butter
+265,24,instant pot oreo cheesecake,16 ounces cream cheese (2 packages at room temperature),16,ounces,cream cheese
+266,24,instant pot oreo cheesecake,1/2 cup sour cream ,1/2,cup,sour cream
+267,24,instant pot oreo cheesecake,2 teaspoons pure vanilla extract ,2,teaspoons,pure vanilla extract
+268,24,instant pot oreo cheesecake,2/3 cup granulated sugar ,2/3,cup,granulated sugar
+269,24,instant pot oreo cheesecake,2  eggs room temperature,2,N/A,eggs
+270,24,instant pot oreo cheesecake,2 tablespoons corn starch ,2,tablespoons,corn starch
+271,24,instant pot oreo cheesecake,8+5  Oreo cookies (chopped: 8 for the filling and 5 for the topping),8+5,N/A,Oreo cookies
+272,24,instant pot oreo cheesecake,1.5 cups water ,1.5,cups,water
+273,25,instant pot pork chops in creamy wine sauce,4  Pork Chops (boneless and thick),4,N/A,Pork Chops
+274,25,instant pot pork chops in creamy wine sauce," Seasoning (salt, pepper, garlic powder, and Italian seasoning) ",N/A,Seasoning,"(salt, pepper, garlic powder, and Italian seasoning)"
+275,25,instant pot pork chops in creamy wine sauce,2 Tablespoons Olive Oil ,2,Tablespoons,Olive Oil
+276,25,instant pot pork chops in creamy wine sauce,3 cloves garlic (chopped),3,cloves,garlic
+277,25,instant pot pork chops in creamy wine sauce,1/2  onion (chopped),1/2,N/A,onion
+278,25,instant pot pork chops in creamy wine sauce,8 oz white mushrooms (sliced),8,oz,white mushrooms
+279,25,instant pot pork chops in creamy wine sauce,1/2 cup dry white wine ,1/2,cup,dry white wine
+280,25,instant pot pork chops in creamy wine sauce,1 cup chicken stock ,1,cup,chicken stock
+281,25,instant pot pork chops in creamy wine sauce,1/2 cup heavy cream ,1/2,cup,heavy cream
+282,25,instant pot pork chops in creamy wine sauce,1 Teaspoon sea salt ,1,Teaspoon,sea salt
+283,25,instant pot pork chops in creamy wine sauce,1/2 Teaspoon Pepper ,1/2,Teaspoon,Pepper
+284,25,instant pot pork chops in creamy wine sauce,2 teaspoons Italian seasoning (or Oregano),2,teaspoons,Italian seasoning
+285,25,instant pot pork chops in creamy wine sauce,  Thyme sprigs ,N/A,N/A,Thyme sprigs
+286,25,instant pot pork chops in creamy wine sauce,3 Tablespoons butter ,3,Tablespoons,butter
+287,25,instant pot pork chops in creamy wine sauce,3 Tablespoons flour ,3,Tablespoons,flour
+288,25,instant pot pork chops in creamy wine sauce,1/2 cup heavy cream (this is in addition to heavy cream in the instant pot),1/2,cup,heavy cream
+289,26,instant pot pork stroganoff,2 tbsp butter ,2,tbsp,butter
+290,26,instant pot pork stroganoff,1/2  onion chopped,1/2,N/A,onion
+291,26,instant pot pork stroganoff,3 cloves garlic minced,3,cloves,garlic
+292,26,instant pot pork stroganoff,1 lb. pork tenderloin cut in chunks or strips,1,lb.,pork tenderloin
+293,26,instant pot pork stroganoff,10 oz. mushrooms sliced,10,oz.,mushrooms
+294,26,instant pot pork stroganoff,3 tbsp all purpose flour ,3,tbsp,all purpose flour
+295,26,instant pot pork stroganoff,1/2 tsp salt ,1/2,tsp,salt
+296,26,instant pot pork stroganoff,2 tsp Italian seasoning ,2,tsp,Italian seasoning
+297,26,instant pot pork stroganoff,1 tbsp paprika ,1,tbsp,paprika
+298,26,instant pot pork stroganoff,1 tbsp Dijon mustard ,1,tbsp,Dijon mustard
+299,26,instant pot pork stroganoff,1 tbsp Worcestershire sauce ,1,tbsp,Worcestershire sauce
+300,26,instant pot pork stroganoff,1 cup dry white wine ,1,cup,dry white wine
+301,26,instant pot pork stroganoff,3 cups chicken broth (sodium free),3,cups,chicken broth
+302,26,instant pot pork stroganoff,12 oz. egg noodles ,12,oz.,egg noodles
+303,26,instant pot pork stroganoff,1/3 cup sour cream ,1/3,cup,sour cream
+304,26,instant pot pork stroganoff,"  Parsley (optional, for garnish)",N/A,N/A,Parsley
+305,27,instant pot orzo with shrimp tomatoes and feta,1 tablespoon olive oil ,1,tablespoon,olive oil
+306,27,instant pot orzo with shrimp tomatoes and feta,1  medium onion diced,1,N/A,medium onion
+307,27,instant pot orzo with shrimp tomatoes and feta,2 cloves garlic minced,2,cloves,garlic
+308,27,instant pot orzo with shrimp tomatoes and feta,"Two 14.5 oz cans diced tomatoes (with their juices, sodium free)",Two,14.5 oz cans,diced tomatoes
+309,27,instant pot orzo with shrimp tomatoes and feta,2 tablespoons fresh parsley ,2,tablespoons,fresh parsley
+310,27,instant pot orzo with shrimp tomatoes and feta,2 tablespoons fresh dill ,2,tablespoons,fresh dill
+311,27,instant pot orzo with shrimp tomatoes and feta,1 1/4 pounds medium shrimp (peeled and deveined),1 1/4,pounds,medium shrimp
+312,27,instant pot orzo with shrimp tomatoes and feta,1/4 teaspoon salt plus more to taste,1/4,teaspoon,salt
+313,27,instant pot orzo with shrimp tomatoes and feta,1/4 teaspoon freshly ground black pepper plus more to taste,1/4,teaspoon,freshly ground black pepper
+314,27,instant pot orzo with shrimp tomatoes and feta,2/3 cup feta cheese (crumbled or cubed),2/3,cup,feta cheese
+315,27,instant pot orzo with shrimp tomatoes and feta,1 1/4 cup chicken stock (sodium free),1 1/4,cup,chicken stock
+316,27,instant pot orzo with shrimp tomatoes and feta,3/4 cup orzo ,3/4,cup,orzo
+317,28,instant pot apple cinnamon cake,"2 1/2 cups apples (cored, peeled and diced)",2 1/2,cups,apples
+318,28,instant pot apple cinnamon cake,1/2 tablespoon ground cinnamon ,1/2,tablespoon,ground cinnamon
+319,28,instant pot apple cinnamon cake,2 tablespoons granulated sugar ,2,tablespoons,granulated sugar
+320,28,instant pot apple cinnamon cake,1 1/2 cups flour (one and a half cup),1 1/2,cups,flour
+321,28,instant pot apple cinnamon cake,1/2 tablespoon baking powder ,1/2,tablespoon,baking powder
+322,28,instant pot apple cinnamon cake,1/2 teaspoon sea salt ,1/2,teaspoon,sea salt
+323,28,instant pot apple cinnamon cake,1/2 cup vegetable oil ,1/2,cup,vegetable oil
+324,28,instant pot apple cinnamon cake,3/4 cup sugar ,3/4,cup,sugar
+325,28,instant pot apple cinnamon cake,2 tablespoon orange juice ,2,tablespoon,orange juice
+326,28,instant pot apple cinnamon cake,1 1/2 teaspoon vanilla extract ,1 1/2,teaspoon,vanilla extract
+327,28,instant pot apple cinnamon cake,2  large eggs at room temperature,2,N/A,large eggs
+328,28,instant pot apple cinnamon cake,1 cup water (to be used in the inner pot),1,cup,water
+329,28,instant pot apple cinnamon cake,  Powdered sugar (to decorate the top of the cake),N/A,N/A,Powdered sugar
+330,29,instant pot cheesy garlic mashed potatoes,2 lb. Yukon Gold Potatoes peeled and cubed,2,lb.,Yukon Gold Potatoes
+331,29,instant pot cheesy garlic mashed potatoes,6 cloves garlic chopped,6,cloves,garlic
+332,29,instant pot cheesy garlic mashed potatoes,2/3 cup chicken stock sodium free,2/3,cup,chicken stock
+333,29,instant pot cheesy garlic mashed potatoes,3/4 teaspoon Salt ,3/4,teaspoon,Salt
+334,29,instant pot cheesy garlic mashed potatoes,3 tablespoons Butter divided,3,tablespoons,Butter
+335,29,instant pot cheesy garlic mashed potatoes,1/3 cup Cream Cheese ,1/3,cup,Cream Cheese
+336,30,instant pot spatchcock chicken mustard crust,2 tablespoons chopped garlic ,2,tablespoons,chopped garlic
+337,30,instant pot spatchcock chicken mustard crust,2 tablespoons Dijon mustard ,2,tablespoons,Dijon mustard
+338,30,instant pot spatchcock chicken mustard crust,2 tablespoons dry white wine ,2,tablespoons,dry white wine
+339,30,instant pot spatchcock chicken mustard crust,1 tablespoon soy sauce ,1,tablespoon,soy sauce
+340,30,instant pot spatchcock chicken mustard crust,2 tablespoons olive oil ,2,tablespoons,olive oil
+341,30,instant pot spatchcock chicken mustard crust,1 teaspoon Tabasco hot pepper sauce ,1,teaspoon,Tabasco hot pepper sauce
+342,30,instant pot spatchcock chicken mustard crust,1 teaspoon herbes de Provence ,1,teaspoon,herbes de Provence
+343,30,instant pot spatchcock chicken mustard crust,1/2 teaspoon salt ,1/2,teaspoon,salt
+344,30,instant pot spatchcock chicken mustard crust,3 1/2 lb. chicken ,3 1/2,lb.,chicken
+345,30,instant pot spatchcock chicken mustard crust,  Salt and Pepper ,N/A,N/A,Salt and Pepper
+346,30,instant pot spatchcock chicken mustard crust,2 tablespoons olive oil (for coating bottom of pan),2,tablespoons,olive oil
+347,30,instant pot spatchcock chicken mustard crust,1/4 cup white wine ,1/4,cup,white wine
+348,30,instant pot spatchcock chicken mustard crust,1 cup unsalted chicken broth warmed,1,cup,unsalted chicken broth
+349,31,one pot chili mac and cheese,1 tbsp olive oil ,1,tbsp,olive oil
+350,31,one pot chili mac and cheese,2  garlic cloves minced ,2,N/A,garlic cloves minced
+351,31,one pot chili mac and cheese,1  onion finely chopped ,1,N/A,onion finely chopped
+352,31,one pot chili mac and cheese,1  red bell pepper chopped,1,N/A,red bell pepper
+353,31,one pot chili mac and cheese,1 lb ground beef ,1,lb,ground beef
+354,31,one pot chili mac and cheese,1 tsp cayenne pepper or pure chilli powder ,1,tsp,cayenne pepper or pure chilli powder
+355,31,one pot chili mac and cheese,2 tsp paprika powder ,2,tsp,paprika powder
+356,31,one pot chili mac and cheese,2 tsp cumin powder ,2,tsp,cumin powder
+357,31,one pot chili mac and cheese,2 tsp onion powder ,2,tsp,onion powder
+358,31,one pot chili mac and cheese,2 tsp garlic powder ,2,tsp,garlic powder
+359,31,one pot chili mac and cheese,1/2 tsp black pepper ,1/2,tsp,black pepper
+360,31,one pot chili mac and cheese,1 1/4 tsp sea salt ,1 1/4,tsp,sea salt
+361,31,one pot chili mac and cheese,28 oz crushed canned tomato ,28,oz,crushed canned tomato
+362,31,one pot chili mac and cheese,14 oz can red kidney beans drained,14,oz,can red kidney beans
+363,31,one pot chili mac and cheese,2 cups beef broth ,2,cups,beef broth
+364,31,one pot chili mac and cheese,8 oz elbow macaroni pasta uncooked,8,oz,elbow macaroni pasta
+365,31,one pot chili mac and cheese,2 cups shredded Cheddar cheese ,2,cups,shredded Cheddar cheese
+366,31,one pot chili mac and cheese,  Parsley (for garnish),N/A,N/A,Parsley
+367,32,creamy chicken pasta,1 1/2 lb. chicken thighs  skinless and boneless,1 1/2,lb.,chicken thighs 
+368,32,creamy chicken pasta,  Salt and black pepper ,N/A,N/A,Salt and black pepper
+369,32,creamy chicken pasta,2 tablespoon olive oil (divided),2,tablespoon,olive oil
+370,32,creamy chicken pasta,2 cloves garlic chopped,2,cloves,garlic
+371,32,creamy chicken pasta,1/2 cup sun dried tomatoes chopped,1/2,cup,sun dried tomatoes
+372,32,creamy chicken pasta,1 cup basil leaves ,1,cup,basil leaves
+373,32,creamy chicken pasta,1/2 cup white wine ,1/2,cup,white wine
+374,32,creamy chicken pasta,1 cup chicken broth/stock  sodium free,1,cup,chicken broth/stock 
+375,32,creamy chicken pasta,1 cup cup heavy cream ,1,cup,cup heavy cream
+376,32,creamy chicken pasta,1/2 teaspoon sea salt ,1/2,teaspoon,sea salt
+377,32,creamy chicken pasta,1 teaspoon Italian seasoning ,1,teaspoon,Italian seasoning
+378,32,creamy chicken pasta,1 teaspoon onion powder ,1,teaspoon,onion powder
+379,32,creamy chicken pasta,2 teaspoons garlic powder ,2,teaspoons,garlic powder
+380,32,creamy chicken pasta,1/2 cup parmesan grated,1/2,cup,parmesan
+381,32,creamy chicken pasta,10 oz pasta (linguine),10,oz,pasta
+382,33,shrimp orzo,1 cup orzo ,1,cup,orzo
+383,33,shrimp orzo,1 lb. shrimp peeled and deveined,1,lb.,shrimp
+384,33,shrimp orzo,2 tsp Italian seasoning (divided),2,tsp,Italian seasoning
+385,33,shrimp orzo,1/4 tsp red pepper flakes ,1/4,tsp,red pepper flakes
+386,33,shrimp orzo,2 tablespoon butter divided,2,tablespoon,butter
+387,33,shrimp orzo,1/2  onion chopped,1/2,N/A,onion
+388,33,shrimp orzo,3 cloves garlic minced,3,cloves,garlic
+389,33,shrimp orzo,1/3 cup white wine ,1/3,cup,white wine
+390,33,shrimp orzo,1/2 cup heavy cream ,1/2,cup,heavy cream
+391,33,shrimp orzo,1/4 tsp sea salt ,1/4,tsp,sea salt
+392,33,shrimp orzo,1/2 cup feta cheese crumbled ,1/2,cup,feta cheese crumbled
+393,33,shrimp orzo,  Parsley to garnish ,N/A,N/A,Parsley to garnish
+394,34,italian sausage pasta,1 tablespoon olive oil ,1,tablespoon,olive oil
+395,34,italian sausage pasta,1 lb. Italian sausage ,1,lb.,Italian sausage
+396,34,italian sausage pasta,4 oz.  Prosciutto (chopped),4,oz., Prosciutto
+397,34,italian sausage pasta,1/2  onion (diced),1/2,N/A,onion
+398,34,italian sausage pasta,3  garlic cloves (minced),3,N/A,garlic cloves
+399,34,italian sausage pasta,5 oz. fresh baby spinach (about 2 cups),5,oz.,fresh baby spinach
+400,34,italian sausage pasta,1/4 teaspoon sea salt ,1/4,teaspoon,sea salt
+401,34,italian sausage pasta,1/4 teaspoon black pepper ,1/4,teaspoon,black pepper
+402,34,italian sausage pasta,1/2 cup white wine ,1/2,cup,white wine
+403,34,italian sausage pasta,14.5 oz. fire-roasted tomatoes (1 can),14.5,oz.,fire-roasted tomatoes
+404,34,italian sausage pasta,1 cup heavy cream ,1,cup,heavy cream
+405,34,italian sausage pasta,1/3 cup Parmesan cheese (grated),1/3,cup,Parmesan cheese
+406,34,italian sausage pasta,10 oz rigatoni pasta ,10,oz,rigatoni pasta
+407,34,italian sausage pasta,2 tbsp Parsley (chopped),2,tbsp,Parsley
+408,35,pasta carbonara,"5 slices bacon cut into 1"" pieces",5,slices,bacon
+409,35,pasta carbonara,2 cloves garlic chopped,2,cloves,garlic
+410,35,pasta carbonara,1/2  red onion thinly sliced,1/2,N/A,red onion
+411,35,pasta carbonara,1  zucchini cut into half moons,1,N/A,zucchini
+412,35,pasta carbonara,8 oz. baby bella mushrooms sliced,8,oz.,baby bella mushrooms
+413,35,pasta carbonara,1/2 cup dry white wine ,1/2,cup,dry white wine
+414,35,pasta carbonara,8 oz. spaghetti ,8,oz.,spaghetti
+415,35,pasta carbonara,3  eggs ,3,N/A,eggs
+416,35,pasta carbonara,1 cup heavy cream ,1,cup,heavy cream
+417,35,pasta carbonara,1 cup grated Parmesan (divided),1,cup,grated Parmesan
+418,35,pasta carbonara,1 cup baby spinach ,1,cup,baby spinach
+419,35,pasta carbonara,  Sea salt ,N/A,N/A,Sea salt
+420,35,pasta carbonara,  Freshly ground black pepper ,N/A,N/A,Freshly ground black pepper
+421,36,lemon garlic chicken pasta,1 lb chicken breasts (4 or 5 thin chicken cutlets) ,1,lb,chicken breasts (4 or 5 thin chicken cutlets)
+422,36,lemon garlic chicken pasta,  salt and pepper (to taste),N/A,N/A,salt and pepper
+423,36,lemon garlic chicken pasta,1/2 cup grated parmesan cheese (more for serving),1/2,cup,grated parmesan cheese
+424,36,lemon garlic chicken pasta,1  egg ,1,N/A,egg
+425,36,lemon garlic chicken pasta,1/2 cup panko bread crumbs homemade or store-bought,1/2,cup,panko bread crumbs
+426,36,lemon garlic chicken pasta,1 tbsp olive oil ,1,tbsp,olive oil
+427,36,lemon garlic chicken pasta,10 oz. fettuccine ,10,oz.,fettuccine
+428,36,lemon garlic chicken pasta,2 Tbsp butter ,2,Tbsp,butter
+429,36,lemon garlic chicken pasta,3 cloves garlic minced,3,cloves,garlic
+430,36,lemon garlic chicken pasta,  juice from 1 lemon (or less to taste),N/A,N/A,juice from 1 lemon
+431,36,lemon garlic chicken pasta,1/2 cup white wine ,1/2,cup,white wine
+432,36,lemon garlic chicken pasta,1/2 cup heavy cream ,1/2,cup,heavy cream
+433,36,lemon garlic chicken pasta,2 tsp Italian seasoning (or more),2,tsp,Italian seasoning
+434,36,lemon garlic chicken pasta,"  fresh Parsley (chopped, for garnish)",N/A,N/A,fresh Parsley
+435,37,easy thai noodles,1/4 cup vegetable oil ,1/4,cup,vegetable oil
+436,37,easy thai noodles,"1 lb. linguine (or ramen, spaghetti, fettuccini)",1,lb.,linguine
+437,37,easy thai noodles,3 cloves garlic (chopped),3,cloves,garlic
+438,37,easy thai noodles,"1  bell pepper (red, julienned)",1,N/A,bell pepper
+439,37,easy thai noodles,1  carrot (julienned),1,N/A,carrot
+440,37,easy thai noodles,"1/3 cup soy sauce (or Tamari, or Coconut Aminos)",1/3,cup,soy sauce
+441,37,easy thai noodles,"1 tablespoon honey (or agave syrup, or brown sugar)",1,tablespoon,honey
+442,37,easy thai noodles,1/4 cup peanut butter ,1/4,cup,peanut butter
+443,37,easy thai noodles,1 teaspoon Chili sauce ,1,teaspoon,Chili sauce
+444,37,easy thai noodles,1/3 cup peanuts (chopped),1/3,cup,peanuts
+445,37,easy thai noodles,1/4 cup green onions (sliced),1/4,cup,green onions
+446,37,easy thai noodles,1 teaspoon sesame seeds ,1,teaspoon,sesame seeds
+447,38,cajun shrimp pasta sausage,1 lb. large shrimp (peeled and deveined),1,lb.,large shrimp
+448,38,cajun shrimp pasta sausage,  Kosher salt and fresh cracked black pepper (to taste),N/A,N/A,Kosher salt and fresh cracked black pepper
+449,38,cajun shrimp pasta sausage,1 teaspoon Cajun seasoning (or Creole seasoning),1,teaspoon,Cajun seasoning
+450,38,cajun shrimp pasta sausage,1/2 teaspoon dried Oregano ,1/2,teaspoon,dried Oregano
+451,38,cajun shrimp pasta sausage,2 tablespoons Olive oil ,2,tablespoons,Olive oil
+452,38,cajun shrimp pasta sausage,6 oz andouille sausage or smoked sausage (thinly sliced),6,oz,andouille sausage or smoked sausage
+453,38,cajun shrimp pasta sausage,10 ounces fettuccine pasta ,10,ounces,fettuccine pasta
+454,38,cajun shrimp pasta sausage,½  yellow onion (thinly sliced),½,N/A,yellow onion
+455,38,cajun shrimp pasta sausage,1  red bell pepper (thinly sliced),1,N/A,red bell pepper
+456,38,cajun shrimp pasta sausage,4 teaspoons Cajun seasoning (or Creole seasoning),4,teaspoons,Cajun seasoning
+457,38,cajun shrimp pasta sausage,1 teaspoon brown sugar ,1,teaspoon,brown sugar
+458,38,cajun shrimp pasta sausage,2-3 cloves garlic (chopped),2-3,cloves,garlic
+459,38,cajun shrimp pasta sausage,½ cup crushed tomatoes ,½,cup,crushed tomatoes
+460,38,cajun shrimp pasta sausage,1 cup chicken broth sodium free,1,cup,chicken broth
+461,38,cajun shrimp pasta sausage,1 cup heavy cream ,1,cup,heavy cream
+462,38,cajun shrimp pasta sausage,2/3 cup Grated Parmesan ,2/3,cup,Grated Parmesan
+463,38,cajun shrimp pasta sausage,1 tbsp parsley (chopped),1,tbsp,parsley
+464,39,new orleans chicken lazone pasta,1 tsp sea salt ,1,tsp,sea salt
+465,39,new orleans chicken lazone pasta,2 tsp Creole seasoning (or Cajun seasoning),2,tsp,Creole seasoning
+466,39,new orleans chicken lazone pasta,2 tsp paprika powder ,2,tsp,paprika powder
+467,39,new orleans chicken lazone pasta,1 tsp onion powder ,1,tsp,onion powder
+468,39,new orleans chicken lazone pasta,2 tsp garlic powder ,2,tsp,garlic powder
+469,39,new orleans chicken lazone pasta,1/4 cup all purpose flour ,1/4,cup,all purpose flour
+470,39,new orleans chicken lazone pasta,1 tbsp olive oil ,1,tbsp,olive oil
+471,39,new orleans chicken lazone pasta,1 tbsp butter ,1,tbsp,butter
+472,39,new orleans chicken lazone pasta,1 lb chicken tenders ,1,lb,chicken tenders
+473,39,new orleans chicken lazone pasta,4 tbsp butter ,4,tbsp,butter
+474,39,new orleans chicken lazone pasta,  Remaining seasoning mixture ,N/A,N/A,Remaining seasoning mixture
+475,39,new orleans chicken lazone pasta,2 cups heavy cream ,2,cups,heavy cream
+476,39,new orleans chicken lazone pasta,1 tsp paprika ,1,tsp,paprika
+477,39,new orleans chicken lazone pasta,8 oz. linguine ,8,oz.,linguine
+478,39,new orleans chicken lazone pasta,2 tbsp parsley chopped ,2,tbsp,parsley chopped
+479,39,new orleans chicken lazone pasta,1/2 cup Pasta water (reserve it),1/2,cup,Pasta water
+480,40,chicken spaghetti marsala wine sauce,1/2 cup all-purpose flour (used for coating chicken and thickening the sauce),1/2,cup,all-purpose flour
+481,40,chicken spaghetti marsala wine sauce,1/2 teaspoon sea salt ,1/2,teaspoon,sea salt
+482,40,chicken spaghetti marsala wine sauce,1/2 teaspoon black pepper ,1/2,teaspoon,black pepper
+483,40,chicken spaghetti marsala wine sauce,1 teaspoon garlic powder ,1,teaspoon,garlic powder
+484,40,chicken spaghetti marsala wine sauce,2 tablespoons olive oil ,2,tablespoons,olive oil
+485,40,chicken spaghetti marsala wine sauce,2  boneless skinless chicken breasts (halved to make 4 fillets),2,N/A,boneless skinless chicken breasts
+486,40,chicken spaghetti marsala wine sauce,1 tablespoon unsalted butter ,1,tablespoon,unsalted butter
+487,40,chicken spaghetti marsala wine sauce,1 tablespoon all purpose flour ,1,tablespoon,all purpose flour
+488,40,chicken spaghetti marsala wine sauce,3/4 cup Marsala wine (or dry Sherry),3/4,cup,Marsala wine
+489,40,chicken spaghetti marsala wine sauce,1 cup sodium free chicken broth ,1,cup,sodium free chicken broth
+490,40,chicken spaghetti marsala wine sauce,1/2 teaspoon garlic powder ,1/2,teaspoon,garlic powder
+491,40,chicken spaghetti marsala wine sauce,1/2 cup heavy cream ,1/2,cup,heavy cream
+492,40,chicken spaghetti marsala wine sauce,1/4 teaspoon salt (more if needed),1/4,teaspoon,salt
+493,40,chicken spaghetti marsala wine sauce,1 teaspoon Italian seasoning ,1,teaspoon,Italian seasoning
+494,41,easy cinnamon rolls,1 teaspoon active dry yeast ,1,teaspoon,active dry yeast
+495,41,easy cinnamon rolls,1 tablespoon granulated sugar ,1,tablespoon,granulated sugar
+496,41,easy cinnamon rolls,⅓ cup whole milk (or 2% milk),⅓,cup,whole milk
+497,41,easy cinnamon rolls,2 tablespoons salted butter melted,2,tablespoons,salted butter
+498,41,easy cinnamon rolls,1  egg yolk large,1,N/A,egg yolk
+499,41,easy cinnamon rolls,¼ teaspoon sea salt ,¼,teaspoon,sea salt
+500,41,easy cinnamon rolls,1 cup all-purpose flour (plus 1 tablespoon),1,cup,all-purpose flour
+501,41,easy cinnamon rolls,⅓ cup brown sugar packed,⅓,cup,brown sugar
+502,41,easy cinnamon rolls,1 teaspoon cinnamon ,1,teaspoon,cinnamon
+503,41,easy cinnamon rolls,2 tablespoons salted butter softened,2,tablespoons,salted butter
+504,41,easy cinnamon rolls,3 ounces cream cheese softened,3,ounces,cream cheese
+505,41,easy cinnamon rolls,3 tablespoons salted butter softened,3,tablespoons,salted butter
+506,41,easy cinnamon rolls,1 cup powdered sugar ,1,cup,powdered sugar
+507,41,easy cinnamon rolls,½ teaspoon vanilla extract ,½,teaspoon,vanilla extract
+508,41,easy cinnamon rolls, Pinch of salt ,N/A,Pinch,of salt
+509,42,vegan chocolate frosting,1/2 cup coconut cream ,1/2,cup,coconut cream
+510,42,vegan chocolate frosting,1/3 cup almond milk ,1/3,cup,almond milk
+511,42,vegan chocolate frosting,1/2 teaspoon sea salt ,1/2,teaspoon,sea salt
+512,42,vegan chocolate frosting,2 teaspoons vanilla ,2,teaspoons,vanilla
+513,42,vegan chocolate frosting,2/3 cup cocoa powder sifted,2/3,cup,cocoa powder
+514,42,vegan chocolate frosting,1 cup powdered sugar sifted,1,cup,powdered sugar
+515,42,vegan chocolate frosting,1/3 cup cashew butter ,1/3,cup,cashew butter
+516,43,cranberry pie dessert,2 cups cranberries fresh or frozen,2,cups,cranberries
+517,43,cranberry pie dessert,1/3 cup granulated sugar (for cranberry mixture),1/3,cup,granulated sugar
+518,43,cranberry pie dessert,1/2 cup pecans chopped,1/2,cup,pecans
+519,43,cranberry pie dessert,3/4 cup butter softened,3/4,cup,butter
+520,43,cranberry pie dessert,2/3 cup granulated sugar (for batter),2/3,cup,granulated sugar
+521,43,cranberry pie dessert,2  eggs ,2,N/A,eggs
+522,43,cranberry pie dessert,1 teaspoon almond extract ,1,teaspoon,almond extract
+523,43,cranberry pie dessert,1 cup all-purpose flour ,1,cup,all-purpose flour
+524,43,cranberry pie dessert,1 teaspoon confectionary sugar (for decoration),1,teaspoon,confectionary sugar
+525,44,quick peach bread,1/2 cup vegetable oil or olive oil,1/2,cup,vegetable oil
+526,44,quick peach bread,2  large eggs ,2,N/A,large eggs
+527,44,quick peach bread,1 cup granulated sugar ,1,cup,granulated sugar
+528,44,quick peach bread,1/2 cup sour cream ,1/2,cup,sour cream
+529,44,quick peach bread,1 tsp vanilla ,1,tsp,vanilla
+530,44,quick peach bread,1  large peach finely peeled and diced,1,N/A,large peach
+531,44,quick peach bread,1/2 cup pecans ,1/2,cup,pecans
+532,44,quick peach bread,1 1/2 cups all-purpose flour sifted,1 1/2,cups,all-purpose flour
+533,44,quick peach bread,1 tsp baking soda ,1,tsp,baking soda
+534,44,quick peach bread,1/2 tsp sea salt ,1/2,tsp,sea salt
+535,45,no bake pineapple dessert,8 oz. cream cheese (one package),8,oz.,cream cheese
+536,45,no bake pineapple dessert,8 oz. cool whip (one tub),8,oz.,cool whip
+537,45,no bake pineapple dessert,"20 oz. chopped canned pineapples (drained, from a can)",20,oz.,chopped canned pineapples
+538,45,no bake pineapple dessert,1  graham cracker crust (8 inch),1,N/A,graham cracker crust
+539,45,no bake pineapple dessert,6  graham crackers (crushed),6,N/A,graham crackers
+540,46,no bake peanut butter chocolate chip dessert,"9 inch Graham Cracker crust pre-made, ready to use",9,inch,Graham Cracker crust
+541,46,no bake peanut butter chocolate chip dessert,8 oz cool whip ,8,oz,cool whip
+542,46,no bake peanut butter chocolate chip dessert,1/2 cup heavy cream ,1/2,cup,heavy cream
+543,46,no bake peanut butter chocolate chip dessert,8 ounces cream cheese softened,8,ounces,cream cheese
+544,46,no bake peanut butter chocolate chip dessert,1/2 cup granulated sugar ,1/2,cup,granulated sugar
+545,46,no bake peanut butter chocolate chip dessert,1 tablespoon vanilla ,1,tablespoon,vanilla
+546,46,no bake peanut butter chocolate chip dessert,"1 cup peanut butter (creamy, not crunchy)",1,cup,peanut butter
+547,46,no bake peanut butter chocolate chip dessert,1 cup mini chocolate chips ,1,cup,mini chocolate chips
+548,47,apple crumb cake,1/2 cup granulated sugar ,1/2,cup,granulated sugar
+549,47,apple crumb cake,1  egg ,1,N/A,egg
+550,47,apple crumb cake,1/4 cup sour cream ,1/4,cup,sour cream
+551,47,apple crumb cake,1 tsp vanilla extract ,1,tsp,vanilla extract
+552,47,apple crumb cake,"1/2 cup butter (1 stick), softened",1/2,cup,butter
+553,47,apple crumb cake,2.5 cups flour ,2.5,cups,flour
+554,47,apple crumb cake,2/3 tsp baking soda ,2/3,tsp,baking soda
+555,47,apple crumb cake,1/2 tsp sea salt ,1/2,tsp,sea salt
+556,47,apple crumb cake,"3  apples (Granny Smith, large in size)",3,N/A,apples
+557,47,apple crumb cake,1/2 cup flour ,1/2,cup,flour
+558,47,apple crumb cake,1/4 cup granulated sugar ,1/4,cup,granulated sugar
+559,47,apple crumb cake,2 tbsps butter ,2,tbsps,butter
+560,48,chocolate frosting,1 cup softened butter ,1,cup,softened butter
+561,48,chocolate frosting,1/3 cup whole milk ,1/3,cup,whole milk
+562,48,chocolate frosting,1 1/2 teaspoon vanilla ,1 1/2,teaspoon,vanilla
+563,48,chocolate frosting,1/2 teaspoon sea salt ,1/2,teaspoon,sea salt
+564,48,chocolate frosting,2/3 cup cocoa powder sifted,2/3,cup,cocoa powder
+565,48,chocolate frosting,3 cups powdered sugar sifted,3,cups,powdered sugar
+566,49,amaranth shortbread cookies,1/2 cup butter (or 1/3 cup olive oil),1/2,cup,butter
+567,49,amaranth shortbread cookies,3/4 cup dark brown sugar ,3/4,cup,dark brown sugar
+568,49,amaranth shortbread cookies,2 tsps ginger ,2,tsps,ginger
+569,49,amaranth shortbread cookies,1/8 tsp nutmeg (optional),1/8,tsp,nutmeg
+570,49,amaranth shortbread cookies,1 tsp lemon zest (optional),1,tsp,lemon zest
+571,49,amaranth shortbread cookies,1 tbsp lemon juice (fresh optional),1,tbsp,lemon juice
+572,49,amaranth shortbread cookies,1/4 tsp sea salt ,1/4,tsp,sea salt
+573,49,amaranth shortbread cookies,1.5 cup Amaranth flour ,1.5,cup,Amaranth flour
+574,49,amaranth shortbread cookies,1/2 cup pistachios and cashews (finely chopped),1/2,cup,pistachios and cashews
+575,50,buckwheat crepes,2  eggs ,2,N/A,eggs
+576,50,buckwheat crepes,1 1/2 cups milk ,1 1/2,cups,milk
+577,50,buckwheat crepes,1/2 tsp baking soda ,1/2,tsp,baking soda
+578,50,buckwheat crepes,1/2 tsp sea salt ( or use 1/4 tsp to lower sodium),1/2,tsp,sea salt
+579,50,buckwheat crepes,2 tbsp sugar ,2,tbsp,sugar
+580,50,buckwheat crepes,3 tbsp butter (melted),3,tbsp,butter
+581,50,buckwheat crepes,1 cup buckwheat flour ,1,cup,buckwheat flour
